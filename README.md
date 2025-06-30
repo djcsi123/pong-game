@@ -1,4 +1,4 @@
-# <div align="center">Hi there, I'm Pratyush Shukla 👋</div>
+# <div align="center">Hi there, I'm A0A 👋</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dot-agi&style=for-the-badge" alt="Profile Views" />
@@ -10,7 +10,6 @@
 
 ## 👨‍💻 About Me
 
-- 🧠 Physical agent committing stuff at [AgentOps](https://github.com/AgentOps-AI)
 - 💡 Passionate about building scalable applications and exploring new technologies
 - 🌱 Always learning and growing in the field of software engineering
 - 🚀 Open to collaborating on interesting projects
